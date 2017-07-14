@@ -5,7 +5,7 @@ import org.springframework.web.client.RestTemplate;
 import java.net.URI;
 import app.model.*;
 
-
+//TEST APPLICATION
 public class ApplicationTest {
     public static final String REST_SERVICE_URI = "http://localhost:8888/book";
 
