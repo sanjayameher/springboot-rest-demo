@@ -1,0 +1,4 @@
+app\repository\BookRepository.class
+app\model\Book.class
+app\Application.class
+app\controller\BookController.class
